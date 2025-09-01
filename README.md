@@ -1,3 +1,4 @@
-# Advanced-Programming-Projects
+Shopping Cart System
 
-Some of the programming projects from advanced programming coursework, demonstrating skills in Java and Python.
+A shopping cart application with search and inventory management, implemented in python.
+
